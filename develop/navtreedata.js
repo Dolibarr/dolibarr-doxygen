@@ -1,0 +1,215 @@
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this file.
+
+Copyright (C) 1997-2019 by Dimitri van Heesch
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of version 2 of the GNU General Public License as published by
+the Free Software Foundation
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+@licend  The above is the entire license notice
+for the JavaScript code in this file
+*/
+var NAVTREE =
+[
+  [ "Dolibarr", "index.html", [
+    [ "Dolibarr project", "index.html", null ],
+    [ "Deprecated List", "da/d58/deprecated.html", null ],
+    [ "Modules", "modules.html", "modules" ],
+    [ "Classes", "annotated.html", [
+      [ "Class List", "annotated.html", "annotated_dup" ],
+      [ "Class Index", "classes.html", null ],
+      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
+      [ "Class Members", "functions.html", [
+        [ "All", "functions.html", "functions_dup" ],
+        [ "Functions", "functions_func.html", "functions_func" ],
+        [ "Variables", "functions_vars.html", "functions_vars" ]
+      ] ]
+    ] ],
+    [ "Files", "files.html", [
+      [ "File List", "files.html", "files_dup" ],
+      [ "File Members", "globals.html", [
+        [ "All", "globals.html", "globals_dup" ],
+        [ "Functions", "globals_func.html", "globals_func" ],
+        [ "Variables", "globals_vars.html", null ]
+      ] ]
+    ] ],
+    [ "Examples", "examples.html", "examples" ]
+  ] ]
+];
+
+var NAVTREEINDEX =
+[
+".html",
+"d0/d1d/class_modele_num_ref_knowledge_record.html#ad734dc60b64a242fe183e0c23b192790",
+"d0/d35/zapier_2admin_2about_8php.html#a71552e61097747f0d8e8288daf9be44d",
+"d0/d51/class_modele_num_ref_partnership.html#a25fd4ccf5db428433948b9bb9000da36",
+"d0/d89/holiday_2list_8php.html#a66917e7b7dd3cc9105e25538f3b5e23e",
+"d0/d94/perweek_8php.html#a45b72a687750121e7e34e6a3009df246",
+"d0/daf/product_2agenda_8php.html#a52123b83a1952a68c5513e47d59ec4a6",
+"d0/dd8/class_interventions.html#ad96ecda823f181e6d999f59dce8db67e",
+"d0/df4/mo__document_8php.html#a2aed2a7a0f1235d3a53b08dea07bd5c7",
+"d1/d17/listbysubaccount_8php.html#a2fad9f872641a4ef190a4dafcaf35b9a",
+"d1/d29/conferenceorbooth__contact_8php.html#a45b72a687750121e7e34e6a3009df246",
+"d1/d3a/fourn_2contact_8php.html#a760b1abde0875e1f5fd8879d49e23422",
+"d1/d5c/project_2new_8php.html#a3ad3a4240c0f97c7e85aff5c52a454d4",
+"d1/d83/adherents_2type_8php.html#a335b888b77440de2772bce07635132be",
+"d1/da0/classmod__ticket__simple.html#ab2fc40d43824ea3e1ce5d86dee0d763b",
+"d1/dac/class_payment_social_contribution.html#aeb05071a9a77ebba6c129018e2e668ff",
+"d1/dce/productlot__list_8php.html#a477a75982e68123d3b09ca20e36b8ca4",
+"d1/df2/compta_2journal_2purchasesjournal_8php.html#ac862c280adfc2be4872f8192e9a019e7",
+"d2/d1c/conferenceorboothattendee__list_8php.html#a11b350b8ed4e471135d7bcfecf59ae66",
+"d2/d37/expensereport_8php.html#a177af2bf70bede02de3d05a425fb8e43",
+"d2/d52/class_form_company.html#ab329c70ebd17ea1f397c54d87001dee9",
+"d2/d6b/class_product_attribute_value.html#ae97941710d863131c700f069b109991e",
+"d2/d72/classbox__supplier__orders.html#ade47d08dc7dc6623ad47b135b2460740",
+"d2/d96/class_lessc.html#a8fa922360e2cdc7069e6729076c4a613",
+"d2/dab/fiche-stat_8php.html#af63b439d0c69c1a6e9c2d1b9a4f4af9e",
+"d2/dc4/product_2card_8php.html#ae1cc3f394d1d239af4cbcb39c96f633a",
+"d2/de5/recruitmentjobposition__list_8php.html#a640be490a43cab2fa01ac52b62706b0c",
+"d2/df5/class_b_o_m.html#a6dc5cdfab766519b9d05a2eebcdc2bb8",
+"d3/d15/invoicetemplate__list_8php.html#a1ccabbd49ff70c13c94e688a08ecb9e8",
+"d3/d30/bom__extrafields_8php.html#aea5a90eab375ba26d1455563a73252b0",
+"d3/d57/donation_8php.html#ad86c3fbc5672e1deeafc5229012b0b5d",
+"d3/d75/class_facture.html#a52f469b0182d9abac2d0f20548680c9c",
+"d3/d8b/class_export_csv.html#acb4e8e50eaf0132d1e70b8776b4ad5cc",
+"d3/da9/reduction_8php.html#a3d5a04d8bf22152e557b8df1dbc21399",
+"d3/dc0/projet_2tasks_2list_8php.html#adbfdccabb2d4045c09dd384e4f902370",
+"d3/deb/cron__run__jobs_8php.html#a97b9f047572d6c50f29fbea522f6c17e",
+"d3/dfe/ticket_2list_8php.html#a9f714fd8cba1988231c5a555da5f4ea8",
+"d4/d15/fourn_2commande_2card_8php.html#a9b0c19856dd4d0ef1f4fcd372fb716b0",
+"d4/d2d/partnership__list_8php.html#af57e1ef52c7331ce2627601c2985260c",
+"d4/d50/empty_8php.html#a414966f874b1af32f144a97b5316faad",
+"d4/d5f/recruitmentjobposition__applications_8php.html#a49a8a4009b02e49717caa88b128affc5",
+"d4/d72/spip_8php.html#aa698a3e72116e8e778be0e95d908ee30",
+"d4/d8a/fichinter_8php_source.html",
+"d4/dab/ftpclient_8php.html#a112ef069ddc0454086e3d1e6d8d55d07",
+"d4/dc2/projet_2list_8php.html#ad695a7bfe810333c10f8578bba26e4bd",
+"d4/dde/class_paiement.html#aa533d4e70c0b62e07455660ad25588d2",
+"d4/df4/replenishorders_8php.html#ae72e3bd619c02f235f6b63b5464fbff1",
+"d5/d35/choix__date_8php.html#ae2173926432e2e9174b351da4aca0b5b",
+"d5/d41/emailcollector__list_8php.html#a455e983ac152d2c101860a4845fa6417",
+"d5/d6c/classmod_email_collector.html",
+"d5/d84/user_2document_8php.html#a66531b08b4fc886b8a3d75574f29dbb8",
+"d5/d94/replenish_8php.html#acdcabbf601dda6e1a91079baf0eac14a",
+"d5/dac/comm_2card_8php.html#ad8a3bcfb2e745be70b1e7ebe97472ce6",
+"d5/dca/fichinter_2stats_2index_8php.html#a43b4fe1074b9b0aadea0efc90bac1ccb",
+"d5/dd8/results_8php.html#af6fa3aa907f762116f3b7ce3a705bfa1",
+"d5/dfc/fiscalyear_8class_8php_source.html",
+"d6/d07/projet_2tasks_2stats_2index_8php.html#a2bbaa0940a74e9b3eaf72ac80817aa3f",
+"d6/d1c/fourn_2facture_2note_8php.html",
+"d6/d3a/don_2index_8php.html#a61954a4fe19436913d0c6cfc6195a9eb",
+"d6/d67/classbox__factures.html#aa61bbcb5c96b83933f68b95783c669a4",
+"d6/d7f/asset_2type_8php.html#a32c63829a8716ce8ddfc8698e2a5ed47",
+"d6/da4/admin_2system_2browser_8php.html#a3ad3a4240c0f97c7e85aff5c52a454d4",
+"d6/dbb/class_simple_open_i_d.html#a3074d04fe4cf1e04a6038246f54eeb8a",
+"d6/dd6/societe_2website_8php.html#a3ad3a4240c0f97c7e85aff5c52a454d4",
+"d6/df4/pertype_8php.html#a6a84acde87e05eb2ec8ca7d45fe7d0c1",
+"d7/d0b/actions__ticket_8class_8php.html",
+"d7/d23/class_user.html#a651aef5e5f1a2730c0cca53cadc22ddc",
+"d7/d30/ticket_2stats_2index_8php.html#a1659f0a629d408e0f849dbe4ee061e62",
+"d7/d65/conferenceorbooth__card_8php.html#a0e3412d457d53c2b8e9ae38190fa0826",
+"d7/d70/class_commande_fournisseur.html#a8c413a41a713b11a42fc567efed9637d",
+"d7/d90/classmod__codeclient__elephant.html#afa58d4ddfa44083903fb9b980c858b63",
+"d7/db2/class_opensurveysondage.html#a4a656f89747c17a216c70d6329a66abe",
+"d7/dd6/peruser_8php.html#aec4de82415d7f05cb9748d12d3a95a87",
+"d8/d01/compta_2prelevement_2index_8php.html#a4c4cf8025c47241f1dcc635d4e516775",
+"d8/d1f/cashdesk_8php.html#a3ad3a4240c0f97c7e85aff5c52a454d4",
+"d8/d32/class_dol_graph.html#a9ca4bad877b79e3e2df2d146aeb25ebe",
+"d8/d53/class_shipments.html#a50e3bfb586b2f42932a6a93f3fbb0828",
+"d8/d6d/product_2inventory_2card_8php.html#a4dcadbee89ed4c8ead497ce14b67dd23",
+"d8/d83/class_inventory_line.html#a87fb599c6cb973edec804d96bbafc504",
+"d8/d9c/logout_8php.html#a1e9b44cc7948d64923643c21644ba1ec",
+"d8/dbb/class_contrat.html#a602b504022412e4115d1a0c13ccbb16d",
+"d8/dd4/commande_2stats_2index_8php.html#a82731d245549bc3a57ceb01309d8972d",
+"d8/de7/class_action_comm.html#a0cf8236560f2db9a14409053ec535d49",
+"d8/df9/stockatdate_8php.html#a0a44e6760141442bb439b1ab1395d8ff",
+"d9/d0d/recruitmentcandidature__document_8php.html#ada57e7bb7c152edad18fe2f166188691",
+"d9/d31/tva_2clients_8php.html#a1d5512a56cecf50dc6022d316956f9af",
+"d9/d48/class_dol_request_data_collector.html#a54085bbfadaa1b5024a304815a9dda40",
+"d9/d69/functions_8lib_8php.html#a31088e17d267b7a42e549a10b7d8e90f",
+"d9/d6e/class_project.html#a6a654e5d5fa9ef67723b3afa22d850be",
+"d9/d7f/societe_2card_8php.html#a3e1fcc9d10a89006bcf5854bc7027bc5",
+"d9/d99/knowledgerecord__note_8php.html#a71552e61097747f0d8e8288daf9be44d",
+"d9/dc7/ihm_8php.html#a0544c3fe466e421738dae463968b70ba",
+"d9/dd2/dict_8php.html#a773e70ee8a73e8f358c64abdd2a22d2b",
+"d9/dd2/dict_8php_source.html",
+"d9/def/mails__templates_8php.html#a9d5bd6e09c81eaf0bcf9325c3a6367c9",
+"da/d07/modulebuilder_2index_8php.html#a8ab7b2ce9b9ce1bad9d868e2c92a0277",
+"da/d2c/eldy_2manifest_8json_8php.html#a43c71f0bdb87f6f8a3c97b945dfeb382",
+"da/d41/class_form_product.html",
+"da/d6a/class_form_ticket.html#a9e95d0c810e01aad35419a26ae16ed6e",
+"da/d8c/class_product_stock_entrepot.html#a6dc5cdfab766519b9d05a2eebcdc2bb8",
+"da/d9e/recruitmentcandidature__list_8php.html#ac655cc19e1df621d53d10f7962e39836",
+"da/dcc/reception_2list_8php.html#adbfdccabb2d4045c09dd384e4f902370",
+"da/de4/fourn_2commande_2info_8php.html#a858f41315ebc780cc51614bcf2558f6c",
+"db/d04/geoipmaxmind_8php.html#aa698a3e72116e8e778be0e95d908ee30",
+"db/d09/class_common_object.html#ac505865a40ffd39c27f37a2ed403549c",
+"db/d22/class_account.html#a4b6fccb8258e8e2907844c559f6189b9",
+"db/d33/class_payment_term.html#a11ec75e1068cd7566eaaf44082cdd029",
+"db/d5c/classmod_payment_by_bank_transfer.html#a5f7186083b734ab6c30f0d12f3407ff2",
+"db/d97/mod__payment__ant_8php.html",
+"db/da8/newpayment_8php.html#a77e900e5988ce807b2e4c16f23e7c55d",
+"db/dc7/compta_2sociales_2list_8php.html#a6c2f585cf2bc9e154d15a338cd0c3053",
+"db/de0/class_mouvement_stock.html#a4a4c5353ffb8d2e2f964799231508ca4",
+"db/df8/class_documents.html#a095c5d389db211932136b53f25f39685",
+"dc/d12/permonth_8php.html#a752b5290f5028181388d795ff065c2a4",
+"dc/d2c/photos__resize_8php.html#aa698a3e72116e8e778be0e95d908ee30",
+"dc/d3e/cron__run__jobs__by__url_8php.html#a598ca4e71b15a1313ec95f0df1027ca5",
+"dc/d46/class_facturation.html#ae55855967d96ea68293df742de2709b8",
+"dc/d68/class_accountancy_system.html#a041b0dda23209da87dd44e6b7632a78f",
+"dc/d87/classmod_label.html",
+"dc/da5/cashcontrol__list_8php.html#a71552e61097747f0d8e8288daf9be44d",
+"dc/dbc/class_societe.html#a9964693bc17162b439fbd83c6f6b0612",
+"dc/ddc/compta_2facture_2stats_2index_8php.html#a377395ef5af1652a8010def0c63ad44c",
+"dd/d05/movement__card_8php.html#ab79d246480c4ac3a0db6bbceca92ad32",
+"dd/d1f/compta_2paymentbybanktransfer_2index_8php.html",
+"dd/d30/recruitment_2view_8php.html#a687ea7fcd78263867b5bd34ed56b6379",
+"dd/d3d/messaging_8php.html#a52123b83a1952a68c5513e47d59ec4a6",
+"dd/d53/listbyaccount_8php.html#ab979d3d72b264608bbc0c98961f19eec",
+"dd/d6f/class_form_propal.html",
+"dd/d81/listsessions_8php.html#a256e4b735a9440b5c3a7ed916d141c8d",
+"dd/d8d/class_cronjobline.html#a7a9f72cbd2a17a35afa32f26528b3106",
+"dd/dae/public__card_8php.html#ae04885316fe9b2e04e1ab407b011c672",
+"dd/dd1/md_2style_8css_8php.html#a25cd8c400c2b51c397927f5331851c2b",
+"dd/dd1/md_2style_8css_8php.html#ab700666c1cce9f0efa3b82a76fcb2b4c",
+"dd/dd6/class_product_fournisseur_price.html#addd569849be6e9ee866865c980871137",
+"dd/de1/expedition_2card_8php.html#aa659316307a821cdcd60350fd0290d6e",
+"dd/df5/myobject__note_8php.html#a49a8a4009b02e49717caa88b128affc5",
+"de/d0e/floors_8php.html#a8810a35b092909790e257943481c1289",
+"de/d24/expedition_2list_8php.html#abf31c9241b276772bf96f5d9c87f7f21",
+"de/d41/openinghours_8php.html#a6b5f02c30d280874b114df46f15d4fb8",
+"de/d52/movement__list_8php.html#a66a919af08acf9594ab41898fa748720",
+"de/d69/class_supplier_proposal.html#aaddc10e3d09e67941b3f4e9f822138c8",
+"de/d82/projet_2card_8php.html#a4dcadbee89ed4c8ead497ce14b67dd23",
+"de/d8f/externalsite_2admin_2index_8php.html#abe8d29474933e77bb113aa319b909f85",
+"de/dac/classdoc__generic__project__odt.html#add48bf17acd82e81e583a24ec7b3d648",
+"de/dd3/societe_2consumption_8php.html#a3ad3a4240c0f97c7e85aff5c52a454d4",
+"de/ddc/product_2stock_2list_8php.html#afddfd500b1d5a03af54c8ca6a129303c",
+"df/d01/sync__users__ldap2dolibarr_8php.html#a8ec73e26a2230d09f209cc1e853e2cc3",
+"df/d1a/view__log_8php.html#a9457d70152059750111af0c6422790af",
+"df/d2f/admin_2system_2about_8php.html#a762496c5fc96d2db9badf027669518b3",
+"df/d54/partnership__agenda_8php.html#aa698a3e72116e8e778be0e95d908ee30",
+"df/d6c/accountancy_2customer_2list_8php.html#a062f89d4bd23b09f1fa858ec18f4e707",
+"df/d7c/eldy_2style_8css_8php.html#a5163cab653ef809c440c6123869c1ad2",
+"df/d9e/public_2recruitment_2index_8php_source.html",
+"df/db9/subscription_8php.html#a858f41315ebc780cc51614bcf2558f6c",
+"df/dcc/ticket_8php.html#adc3f16c3b03bc755ab09d40e79211d08",
+"df/de8/export-thirdpartyaccount_8php.html#ac862c280adfc2be4872f8192e9a019e7",
+"dir_1349f63c37dcfecdb1479191cb1cfd05.html",
+"dir_98884706816743f368aa4d1d08c367ed.html",
+"functions_w.html"
+];
+
+var SYNCONMSG = 'click to disable panel synchronisation';
+var SYNCOFFMSG = 'click to enable panel synchronisation';
